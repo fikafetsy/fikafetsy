@@ -30,7 +30,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
           </a>
         </td>
         <td>
-          <a href="#">
+          <a href="tadidio@gmail.com">
             <img src="https://img.shields.io/badge/ony%20gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white">
           </a>
         </td>
